@@ -54,4 +54,4 @@ This repository contains four projects:
 
 ## Video For the assignment
 
-Link -  https://drive.google.com/file/d/17zdK0cwERxd9nW6JGin7_emSfS3zd-Py/view?usp=drive_link
+Link -  https://drive.google.com/drive/folders/1sHqvKF5p9k_HaTKZvUa1Ja9rhL7a5Jai?usp=drive_link
